@@ -1,8 +1,8 @@
 <div class="main-sidebar sidebar-style-2">
     <aside id="sidebar-wrapper">
         <div class="sidebar-brand">
-            <a href="index.html">E - Kedai
-                <img src="{{ asset('img/kedai.png') }}"
+            <a href="index.html">Kedai Kumis
+                <img src="{{ asset('img/pak.png') }}"
                 alt="logo"
                 width="70">
             </a>
